@@ -36,7 +36,7 @@ AllocTracer is not supported for Windows. WSL stattdessen:
 Je größer die Liste, umso mehr stack traces gibt es.
 Es werden mehr sort() und next() methoden aufgerufen.
 Der stack weist bis zum Record Index zurück. Die add methode
-returned immer wieder einen neuen Index anstatt einfach ein
+returned immer wieder einen neuen Index.
 
 
 
